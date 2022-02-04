@@ -1,0 +1,30 @@
+
+t01:
+Name:       Butter Chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   500
+Name:       Tandoori Chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   400
+
+t02:
+425
+
+t03:
+450
+
+t04:
+Food                                Origin       Vegetarian Calories
+----------------------------------- ------------ ---------- --------
+Butter Chicken                      Indian       False      500
+Jamaican Chicken                    Mexican      False      550
+Mashed Patotoes                     American     True       250
+Tandoori Chicken                    Indian       False      400
+
+t05:
+Name:       Tandoori Chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   400

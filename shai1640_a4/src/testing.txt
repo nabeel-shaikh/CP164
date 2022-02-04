@@ -1,0 +1,49 @@
+t01:
+Circular Queue is empty? True
+
+Adding food objects to Circular Queue
+
+Test to see if peak and remove work
+
+Peak of Circular Queue:
+Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+
+Food object is removed from Circular Queue
+Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+
+
+
+
+t02:
+Target 1 values
+7
+6
+5
+
+t03:
+Target 2 values
+4
+3
+2
+1
+
+t04:
+Target 1 values
+7
+5
+3
+1
+
+
+t05:
+Target 2 values
+6
+4
+2
+

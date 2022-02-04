@@ -1,0 +1,54 @@
+t01:
+Target 1 values
+5
+8
+12
+8
+Target 2 values
+7
+9
+14
+
+t02:
+Target 1 values
+1
+3
+5
+7
+Target 2 values
+2
+4
+6
+
+t03:
+14
+9
+7
+8
+1
+12
+6
+8
+3
+5
+
+t04:
+14
+9
+7
+8
+1
+12
+6
+8
+3
+5
+
+t05:
+True
+True
+False
+
+t06:
+7
+102

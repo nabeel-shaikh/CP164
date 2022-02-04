@@ -1,0 +1,235 @@
+t01:
+target1 is identical to target2? False
+
+Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+
+target 2 get item at index 1 : Name:       Vegetable Alicha
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   138
+
+Cleaning target2
+
+intersection of target 1 and 2 onto target 3
+target 3 values:
+Name:       Moo Goo Guy Pan
+Origin:     Chinese
+Vegetarian: False
+Calories:   272
+Name:       Vegetable Alicha
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   138
+Name:       Spanakopita
+Origin:     Greek
+Vegetarian: True
+Calories:   260
+
+union of target 1 and 2 onto target 3
+target3 values:
+Name:       Moo Goo Guy Pan
+Origin:     Chinese
+Vegetarian: False
+Calories:   272
+Name:       Vegetable Alicha
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   138
+Name:       Spanakopita
+Origin:     Greek
+Vegetarian: True
+Calories:   260
+Name:       Butter Chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   490
+Name:       Moo Goo Guy Pan
+Origin:     Chinese
+Vegetarian: False
+Calories:   272
+Name:       Vegetable Alicha
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   138
+Name:       Spanakopita
+Origin:     Greek
+Vegetarian: True
+Calories:   260
+Name:       Chirashi Don
+Origin:     Japanese
+Vegetarian: False
+Calories:   600
+Name:       Canuck Burger
+Origin:     Canadian
+Vegetarian: False
+Calories:   7,500
+
+Prepending last food object to target 1
+Name:       Chicken Wings
+Origin:     American
+Vegetarian: False
+Calories:   298
+
+remove front of target1
+Name:       Chicken Wings
+Origin:     American
+Vegetarian: False
+Calories:   298
+
+Appending first food object to target 2
+Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+
+Combining target 1 and 2 onto 3
+
+splitting target 3 and printing first half values
+Name:       Moo Goo Guy Pan
+Origin:     Chinese
+Vegetarian: False
+Calories:   272
+Name:       Vegetable Alicha
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   138
+Name:       Spanakopita
+Origin:     Greek
+Vegetarian: True
+Calories:   260
+Name:       Butter Chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   490
+Name:       Moo Goo Guy Pan
+Origin:     Chinese
+Vegetarian: False
+Calories:   272
+Name:       Vegetable Alicha
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   138
+Name:       Spanakopita
+Origin:     Greek
+Vegetarian: True
+Calories:   260
+Name:       Chirashi Don
+Origin:     Japanese
+Vegetarian: False
+Calories:   600
+Name:       Canuck Burger
+Origin:     Canadian
+Vegetarian: False
+Calories:   7,500
+
+Split alt of target 1 and showing second list's values
+Name:       Butter Chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   490
+
+
+
+t02:
+Name:       Butter Chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   490
+
+3
+
+Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+
+Name:       Canuck Burger
+Origin:     Canadian
+Vegetarian: False
+Calories:   7,500
+
+target1 and target2 are identical? False
+
+Name:       Canuck Burger
+Origin:     Canadian
+Vegetarian: False
+Calories:   7,500
+
+count of source[0] in target 1 is 1
+
+Min of target1 is:
+Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+
+Max of target2 is:
+Name:       Vegetable Alicha
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   138
+
+True
+
+Name:       Spanakopita
+Origin:     Greek
+Vegetarian: True
+Calories:   260
+
+target 3 values intersection with target 1 and 2
+Name:       Spanakopita
+Origin:     Greek
+Vegetarian: True
+Calories:   260
+Name:       Vegetable Alicha
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   138
+
+target 3 values union with target 1 and 2
+Name:       Chirashi Don
+Origin:     Japanese
+Vegetarian: False
+Calories:   600
+Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+Name:       Moo Goo Guy Pan
+Origin:     Chinese
+Vegetarian: False
+Calories:   272
+Name:       Spanakopita
+Origin:     Greek
+Vegetarian: True
+Calories:   260
+Name:       Spanakopita
+Origin:     Greek
+Vegetarian: True
+Calories:   260
+Name:       Vegetable Alicha
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   138
+Name:       Vegetable Alicha
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   138
+
+Name:       Lasagna
+Origin:     Italian
+Vegetarian: False
+Calories:   135
+
+Name:       Spanakopita
+Origin:     Greek
+Vegetarian: True
+Calories:   260
+Name:       Chirashi Don
+Origin:     Japanese
+Vegetarian: False
+Calories:   600
+
